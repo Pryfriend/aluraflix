@@ -60,4 +60,4 @@ Este projeto está licenciado sob a licença MIT. Consulte o arquivo LICENSE par
 
 ---
 
-Desenvolvido por [Victor Gomes](https://github.com/victorgomesl) para Alura em parceria com a ONE.
+Desenvolvido por [PRISCILA SILVA] para Alura em parceria com a ONE.
