@@ -1,6 +1,7 @@
 # Aluraflix
 
 Projeto desenvolvido para Alura em parceria com a ONE para a turma T6 do curso de Frontend especialização em React.
+figma:https://www.figma.com/file/06e5IXeOVl8QvA3mm4TENR/New-AluraFlix---PT?type=design&node-id=1-106&mode=design&t=0o4paXESBdnCXvdU-0
 
 ## Descrição
 
