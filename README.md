@@ -48,10 +48,6 @@ npm run server
 2. Inicie o servidor de desenvolvimento do React:
 npm start
 
-3. Abra seu navegador e acesse:
-http://localhost:3000
-
-
 ## Licença
 
 Este projeto está licenciado sob a licença MIT. Consulte o arquivo LICENSE para obter mais informações.
